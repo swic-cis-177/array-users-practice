@@ -1,4 +1,8 @@
-# JS Starter
+# Girections
+
+Work through and make `commit`s as per **my** 'Vimeo videos' shown [here.](https://www.notion.so/codefinity/Copy-of-Arrays-II-70d3db2590ec4ae0ab637ee6b58a1b7c)
+
+## The Usual Girections
 
 Use of this starter template assumes that you have a 'complete dev environment' setup - a terminal, Node, VS Code, at least. If not, you may want to [start here.](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
 
